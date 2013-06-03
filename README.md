@@ -12,7 +12,7 @@ Embeds VK videos into articles simply by copying and pasting part of the video c
 
 For example for video at http://vk.com/video425890_164868700:
 
-click on "share video" -&gt; "get video code" (or "<>" angles at top right corner of currently playing video)
+click on "share video" -> "get video code" (or "<>" angles at top right corner of currently playing video)
 
 You'll find embed code:
 

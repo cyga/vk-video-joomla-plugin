@@ -11,14 +11,14 @@
 	<description>
 	<![CDATA[
 <p>This plugin embeds VK videos into articles simply by copying and pasting part of the video code between the vkvideo tags: {vkvideo}iframe parameters{/vkvideo}. For example for <a href="http://vk.com/video425890_164868700">video</a>:<br/>
-click on "share video" -&gt; "get video code"<br/>
+click on "share video" -&gt; "get video code" (or "&lt;%gt;" angles at the top right corner of currently playing video)<br/>
 You'll find embed code:<br/>
 &lt;iframe src="http://vk.com/video_ext.php?oid=32194266&id=162925554&hash=7d8c2e0d5e05aeaa&hd=1" width="607" height="360" frameborder="0"&gt;&lt;/iframe&gt;
 <br/>
 Which you turn into text in the article:<br/>
 {vkvideo}src="http://vk.com/video_ext.php?oid=32194266&id=162925554&hash=7d8c2e0d5e05aeaa&hd=1" width="607" height="360" frameborder="0"{/vkvideo}<br/>
 <br/>
-You can find more information here: https://github.com/cyga/vk-video-joomla-plugin
+You can find more information at <a href="https://github.com/cyga/vk-video-joomla-plugin">https://github.com/cyga/vk-video-joomla-plugin</a>.
 </p>
 <p>Don't forget to enable plugin (Toolbar: Extension -&gt; Plug-in Manager -&gt; switching the button from red to green).</p>
 	]]>
