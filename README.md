@@ -8,7 +8,7 @@ Usage
 
 Embeds VK videos into articles simply by copying and pasting part of the video code between the vkvideo tags:
 
-{vkvideo}code{/vkvideo}
+{vkvideo}iframe parameters{/vkvideo}
 
 For example for video at http://vk.com/video425890_164868700:
 
